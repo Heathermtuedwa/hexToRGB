@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: darkgray;
+  }
+  #display-container {
+    margin-top: 30rem;
+    
+
+  }
+  #display-button {
+    padding: 10px 20px;
+    font-size: 40px;
+    cursor: pointer;
+   border-style: double;
+border-color: indianred;
+  }
+  #color-display {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  :hover{
+   color: darkorchid;
+  }
